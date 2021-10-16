@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Helvetica';
+    src: url('../fonts/Helvetica-Bold.eot');
+    src: url('../fonts/Helvetica-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/../fonts/../fonts/Helvetica-Bold.woff2') format('woff2'),
+        url('../fonts/../fonts/Helvetica-Bold.woff') format('woff'),
+        url('../fonts/../fonts/Helvetica-Bold.ttf') format('truetype'),
+        url('../fonts/Helvetica-Bold.svg#Helvetica-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

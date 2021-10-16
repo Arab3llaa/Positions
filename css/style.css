@@ -1,0 +1,51 @@
+/*header start*/
+.header {
+	padding: 20px 15px;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 10000000;
+}
+
+.logo {
+	vertical-align: middle;
+	margin-right: 92px;
+	margin-left: 16px;
+	color: #FA6980;
+	font-size: 13px;
+	text-transform: uppercase;
+	font-family: 'Helvetica';
+}
+
+.nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.nav-li {
+	display: inline-block;
+	margin-right: 27px;
+	font-size: 11px;
+	text-transform: uppercase;
+	font-family: 'Helvetica';
+
+}
+
+.home {
+	color: black;
+	
+}
+
+.a1 {
+	color: black;
+	opacity: 50%;
+
+}
+
+.img1 {
+    display: inline-block;
+	margin-right: 40px;
+
+}
+
+/*header end*/
